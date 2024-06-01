@@ -1,4 +1,4 @@
-<img src="./screenshot.png" alt="Tela Cadastro e Login">
+<img src="./screenshot.png" width="840px" height="640px" alt="Tela Cadastro e Login">
 
 # Tela de Cadastro e Login
 
